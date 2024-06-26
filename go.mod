@@ -1,4 +1,4 @@
-module github.com/l1qwie/Protocol
+module github.com/l1qwie/Proto-RTG
 
 go 1.22.4
 
