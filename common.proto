@@ -99,7 +99,9 @@ message RegServRequest {
     int64 price = 6;
     string currency = 7;
     int64 status = 8;
-    string action = 9; //new, del or change
+    string address = 9;
+    string link = 10;
+    string action = 11; //new, del or change
 }
 
 message EmptyResponse {
